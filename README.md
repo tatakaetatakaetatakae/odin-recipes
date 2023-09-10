@@ -1,1 +1,2 @@
 # odin-recipes
+in this project i ll be creating a recipes webpage , i ll be using all the things i learned about html such as elements and paragraphs and how to use links and images inside of a webpage.
